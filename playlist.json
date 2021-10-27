@@ -1,0 +1,35 @@
+{
+  "playlist": [
+    {
+      "title": "Blue Side",
+      "by": "j-hope",
+      "time": "3:18",
+      "filemusic": "./assets/blueside.mp3",
+      "listeners": 47593604
+    },
+
+    {
+      "title": "Dreamed a Dream",
+      "by": "Car, the garden",
+      "time": "3:20",
+      "filemusic": "./assets/dreamedadream.mp3",
+      "listeners": 113043
+    },
+
+    {
+      "title": "Working for the Knife",
+      "by": "Mitski",
+      "time": "2:39",
+      "filemusic": "./assets/workingfortheknife.mp3",
+      "listeners": 7345355
+    },
+
+    {
+      "title": "Moths",
+      "by": "Racing Glaciers",
+      "time": "4:06",
+      "filemusic": "./assets/moths.mp3",
+      "listeners": 1703044
+    }
+  ]
+}
