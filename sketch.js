@@ -2,14 +2,13 @@
 
 //rain
 let drop = [];
-//rain
 
 //navigation
 let buttonPlay;
 let buttonForward;
-
 let myImage;
 let heart;
+
 //data json
 let song = {
   title: "-",
@@ -93,7 +92,6 @@ function Drop() {
   };
 
   this.update = function () {
-    // this.speed = random(5, 100);
     this.y = this.y + 8;
 
     if (this.y > 352) {
